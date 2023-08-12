@@ -22,7 +22,7 @@ export const Footer = () => {
       >
         <Stack justify="space-between" direction="column" align="center">
           <Text fontSize="sm" fontWeight="bold" color="subtle">
-            {`Made by team Error 404`}
+            {`Made by team 404 Not Found`}
           </Text>
           <ButtonGroup variant="ghost">
             {/* <IconButton
