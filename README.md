@@ -1,5 +1,5 @@
 <div align="center">
- 
+ <img src="https://drive.google.com/file/d/1GgaxlfEgSZ3wJJudGrJYNREquNK0FdhD/view?usp=drive_link">
 
 # 🌱 Khetokibaatkaro 🌎
 
