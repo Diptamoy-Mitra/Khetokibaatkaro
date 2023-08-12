@@ -3,7 +3,7 @@
 
 # 🌱 Khetokibaatkaro 🌎
 
-### A Social Media App for Farming Community.
+### A Social Media App for Farming Community
 
  </div>
 
