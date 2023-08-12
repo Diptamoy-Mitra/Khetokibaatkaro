@@ -114,7 +114,7 @@ export const Login = () => {
               textAlign="center"
               marginBottom="2"
             >
-              AgroLife
+              Kheto_ki_baat_karo
             </Text>
             <Spacer />
             <Heading
