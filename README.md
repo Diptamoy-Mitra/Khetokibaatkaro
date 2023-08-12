@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://imgbox.com/F88jY6rc" target="_blank"><img src="https://thumbs2.imgbox.com/21/ff/F88jY6rc_t.png" alt="image host" width="100" height="100"/></a>
+ <a href="https://imgbox.com/F88jY6rc" target="_blank"><img src="https://thumbs2.imgbox.com/21/ff/F88jY6rc_t.png" alt="image host" width="150" height="150"/></a>
  
 # 🌱 Khetokibaatkaro 🌎
 
