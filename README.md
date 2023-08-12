@@ -3,26 +3,26 @@
 
 # 🌱 Khetokibaatkaro 🌎
 
-### A Social Media App for Farming Community.
+### A Social Media App for Farming Community
 
  </div>
 
 ---
 
-## About AgroLife
+## About Khetokibaatkaro
 
 - AgroLife is a Social Media platform where one can easily share their life events & learnings related to Agriculture.
 - People can connect by following each other people and get knowledge and learnings from their friends.
 
 ## Live Deployment
 
-Checkout the live deployment here: [AgroLife] ()
+Checkout the live deployment here: [Khetokibaatkaro] ()
 ---
 
 ## Features
 
 - Home Feed with Sort Posts by Trending, Newest & Oldest Post.
-- Explore Page with Various Categories to filter post by Trending, Facts, News, Technology, Hydroponic Farming.
+- Explore Page with Various Categories to filter post by Trending,Facts, News, Technology, Hydroponic Farming.
 - Single Post Page - User can like post, add edit & delete comment of post and add post to bookmark / remove from bookmark.
 - Bookmark Page - This Page consist of all posts bookmarked by user.
 - Post CRUD Operations - User can create new post, add image to post, edit post, update image of post and delete post.
