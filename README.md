@@ -1,5 +1,5 @@
 <div align="center">
-  ![Kkbk-removebg-preview](https://github.com/Diptamoy-Mitra/Khetokibaatkaro/assets/99985624/158a858f-b753-4112-baee-4b1ecd810833)
+ <img src="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/assets/99985624/3456ad1b-1093-4c31-9669-0b7b39636290>
 
 # 🌱 Khetokibaatkaro 🌎
 
