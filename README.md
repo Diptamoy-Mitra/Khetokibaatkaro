@@ -61,11 +61,7 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 <div>
 <h1 align="center">
  <b>Made with ❤️ by team 404 Not Found
- <h1>
-  <a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Diptamoy-Mitra/Khetokibaatkaro" />
-  
-</a>
+
 </div>
 ## Connect with me:
 Shaspac
