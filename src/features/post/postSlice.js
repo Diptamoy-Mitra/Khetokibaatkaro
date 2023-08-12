@@ -217,7 +217,7 @@ const postSlice = createSlice({
       state.singleUserPostsStatus = STATUSES.ERROR;
     },
     [getHomePosts.pending]: state => {
-      state.homePostsStatus = STATUSES.LOADING;
+      state.homePostsStatus = STATUSES.LOADING; 
     },
     [getHomePosts.fulfilled]: (state, action) => {
       state.homePostsStatus = STATUSES.SUCCESS;
