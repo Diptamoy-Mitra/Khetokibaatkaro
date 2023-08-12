@@ -59,6 +59,9 @@ export const MyProfile = () => {
     profileImageUrl,
     coverImageUrl,
   } = userProfile;
+
+
+    
   const authState = useSelector(state => state.auth);
   const followingList = authState.userData.following;
   const currentUserId = authState.userData.uid;
@@ -184,7 +187,7 @@ export const MyProfile = () => {
                 {following.length} Following • {followers.length} Followers
               </Text>
               <Text>
-                My Website:<Link marginLeft="1">{website} </Link> 
+                My Website:<Link marginLeft="1">{website}</Link> 
               </Text>
               <Text>Bio: {bio}</Text>
             </VStack>
