@@ -19,6 +19,7 @@ import {
   Button,
   Spinner,
   useBoolean,
+ // ChakraLink
 } from '@chakra-ui/react';
 import { useDispatch, useSelector } from 'react-redux';
 import { v4 as uuid } from 'uuid';
@@ -187,7 +188,9 @@ export const MyProfile = () => {
                 {following.length} Following • {followers.length} Followers
               </Text>
               <Text>
-                My Website:<Link marginLeft="1">{website}</Link> 
+                My Website:<Link href={website} marginLeft="1">
+      {website}
+    </Link> 
               </Text>
               <Text>Bio: {bio}</Text>
             </VStack>
