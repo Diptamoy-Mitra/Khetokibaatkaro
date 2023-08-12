@@ -188,7 +188,7 @@ export const MyProfile = () => {
                 {following.length} Following • {followers.length} Followers
               </Text>
               <Text>
-                Massage in  WhatsApp:<Link href={website} marginLeft="1">
+                WhatsApp: <Link href={website} marginLeft="1">
       {website}
     </Link> 
               </Text>
