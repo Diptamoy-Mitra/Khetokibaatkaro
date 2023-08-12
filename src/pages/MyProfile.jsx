@@ -19,6 +19,7 @@ import {
   Button,
   Spinner,
   useBoolean,
+ // ChakraLink
 } from '@chakra-ui/react';
 import { useDispatch, useSelector } from 'react-redux';
 import { v4 as uuid } from 'uuid';
@@ -59,6 +60,9 @@ export const MyProfile = () => {
     profileImageUrl,
     coverImageUrl,
   } = userProfile;
+
+
+    
   const authState = useSelector(state => state.auth);
   const followingList = authState.userData.following;
   const currentUserId = authState.userData.uid;
@@ -178,12 +182,15 @@ export const MyProfile = () => {
                     {isFollowing ? `Following` : `Follow`}
                   </Button>
                 )}
+                
               </Flex>
               <Text marginLeft="5">
                 {following.length} Following • {followers.length} Followers
               </Text>
               <Text>
-                My Website:<Link marginLeft="1">{website}</Link>
+                Massage in  WhatsApp:<Link href={website} marginLeft="1">
+      {website}
+    </Link> 
               </Text>
               <Text>Bio: {bio}</Text>
             </VStack>

@@ -10,7 +10,7 @@ import {
   Input,
   FormLabel,
   Button,
-  Divider,
+ // Divider,
   Image,
   Text,
 } from '@chakra-ui/react';
@@ -240,7 +240,7 @@ export const Login = () => {
                 </Button>
               )} */}
             </Flex>
-            <Divider marginTop="1rem" borderWidth="1px" borderColor="grey.50" />
+            {/* <Divider marginTop="1rem" borderWidth="1px" borderColor="grey.50" /> */}
             <Flex direction="column">
               <Button
                 colorScheme="whatsapp"

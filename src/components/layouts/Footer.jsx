@@ -30,7 +30,7 @@ export const Footer = () => {
               href="https://www.linkedin.com/in/kedark152"
               aria-label="LinkedIn"
               icon={<FaLinkedin fontSize="1.25rem" />}
-            /> */}
+            /> */ }
             <IconButton
               as="a"
               href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro"

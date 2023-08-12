@@ -1,28 +1,29 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dvuh4fz9d/image/upload/v1658239218/planet-earth_1_x4ukjv.png" height="180" width="200" alt="logo"/>
-
+ <a href="https://imgbox.com/F88jY6rc" target="_blank"><img src="https://thumbs2.imgbox.com/21/ff/F88jY6rc_t.png" alt="image host" width="150" height="150"/></a>
+ 
 # 🌱 Khetokibaatkaro 🌎
 
-### A Social Media App for Farming Community
+
+### A platform for Framing the Farmer Community Online
 
  </div>
 
 ---
 
-## About AgroLife
+## About Khetokibaatkaro
 
-- AgroLife is a Social Media platform where one can easily share their life events & learnings related to Agriculture.
+- Khetokibaatkaro is a Social Media platform where one can easily share their life events & learnings related to Agriculture.
 - People can connect by following each other people and get knowledge and learnings from their friends.
 
 ## Live Deployment
 
-Checkout the live deployment here: [AgroLife] ()
+Checkout the live deployment here: [Khetokibaatkaro] ()
 ---
 
 ## Features
 
 - Home Feed with Sort Posts by Trending, Newest & Oldest Post.
-- Explore Page with Various Categories to filter post by Trending, Facts, News, Technology, Hydroponic Farming.
+- Explore Page with Various Categories to filter post by Trending,Facts, News, Technology, Hydroponic Farming.
 - Single Post Page - User can like post, add edit & delete comment of post and add post to bookmark / remove from bookmark.
 - Bookmark Page - This Page consist of all posts bookmarked by user.
 - Post CRUD Operations - User can create new post, add image to post, edit post, update image of post and delete post.
@@ -60,11 +61,7 @@ Checkout the live deployment here: [AgroLife] ()
 <div>
 <h1 align="center">
  <b>Made with ❤️ by team 404 Not Found
- <h1>
-  <a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Diptamoy-Mitra/Khetokibaatkaro" />
-  
-</a>
+
 </div>
 ## Connect with me:
 Shaspac
