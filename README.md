@@ -1,6 +1,6 @@
 <div align="center">
- <a href="https://imgbox.com/TNFjtF0s" target="_blank"><img src="https://thumbs2.imgbox.com/5a/af/TNFjtF0s_t.png" alt="image host"/></a>
-
+ <a href="https://imgbox.com/F88jY6rc" target="_blank"><img src="https://thumbs2.imgbox.com/21/ff/F88jY6rc_t.png" alt="image host" width="150" height="150"/></a>
+ 
 # 🌱 Khetokibaatkaro 🌎
 
 
@@ -12,7 +12,7 @@
 
 ## About Khetokibaatkaro
 
-- AgroLife is a Social Media platform where one can easily share their life events & learnings related to Agriculture.
+- Khetokibaatkaro is a Social Media platform where one can easily share their life events & learnings related to Agriculture.
 - People can connect by following each other people and get knowledge and learnings from their friends.
 
 ## Live Deployment
@@ -61,11 +61,7 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 <div>
 <h1 align="center">
  <b>Made with ❤️ by team 404 Not Found
- <h1>
-  <a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Diptamoy-Mitra/Khetokibaatkaro" />
-  
-</a>
+
 </div>
 ## Connect with me:
 Shaspac

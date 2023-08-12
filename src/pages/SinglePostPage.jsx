@@ -73,7 +73,7 @@ export const SinglePostPage = () => {
                 thickness="4px"
                 speed="0.25s"
                 emptyColor="gray.200"
-                color="blue.500"
+                color="#009900"
                 size="xl"
                 left="35rem"
                 top="5rem"

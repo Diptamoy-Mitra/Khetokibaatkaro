@@ -2,7 +2,7 @@ import { HStack, Heading, useColorModeValue } from '@chakra-ui/react';
 import { ColorModeSwitcher } from '../ColorModeSwitcher';
 import { NavLink } from 'react-router-dom';
 export const TopBar = () => {
-  const cardBgColor = useColorModeValue('teal', '#4a4e69');
+  const cardBgColor = useColorModeValue('teal', '#336600');
   const cardTextColor = useColorModeValue('white', 'gray.200');
   return (
     <HStack
@@ -21,10 +21,11 @@ export const TopBar = () => {
         noOfLines="2"
         lineHeight={1.6}
         fontFamily="sans-serif"
+        fontSize="30px"
 
         marginX="2rem"
       >
-        KKBK
+        KHETOKIBAATKARO
 
       </Heading>
       <ColorModeSwitcher position="absolute" right="2rem" />

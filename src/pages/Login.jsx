@@ -102,19 +102,24 @@ export const Login = () => {
         <Flex height="90%" direction={['column', 'row', 'row']}>
           <Box p="2" my={['2rem', '3rem', '5rem']}>
             <Image
-              boxSize={['90px', '90px', '120px']}
-              mx={['40vw', '4vw', '18vw']}
+              boxSize={['90px', '90px', '110px']}
+              mx={['50vw', '4vw', '18vw']}
               src="https://res.cloudinary.com/dvuh4fz9d/image/upload/v1658239218/planet-earth_1_x4ukjv.png"
             />
             <Text
-              fontSize={['5xl', '4xl', '6xl']}
-              fontWeight="bold"
-              noOfLines="1"
-              fontFamily="Dancing Script, cursive"
+              fontSize={['3x1', '3xl', '2x.5']}
+
+              noOfLines="2"
+              fontFamily="Dancing Script,cursive"
               textAlign="center"
               marginBottom="2"
+              bgGradient='linear(to-l,#009933 0%, #ffff00 100%)'
+              bgClip='text'
+              fontWeight='extrabold'
+
             >
-              AgroLife
+              KHETOKIBAATKARO
+
             </Text>
             <Spacer />
             <Heading
@@ -123,7 +128,7 @@ export const Login = () => {
               noOfLines="4"
               textAlign="center"
             >
-              Connect & share your agrolife stories with friends
+              Connect & share your  stories with Farmers
             </Heading>
           </Box>
           <Spacer />

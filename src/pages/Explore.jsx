@@ -13,8 +13,7 @@ import { useCrudToast } from '../hooks/useCrudToast';
 import { useBookmarkToast } from '../hooks/useBookmarkToast';
 import { useLikeToast } from '../hooks/useLikeToast';
 import { AiFillFire } from 'react-icons/ai';
-import { CgSmartphoneChip } from 'react-icons/cg';
-import { RiNewspaperLine, RiPlantLine } from 'react-icons/ri';
+
 import {
   Box,
   Container,
@@ -31,7 +30,7 @@ import { MobileMenu } from '../components/layouts/MobileMenu';
 import { CreatePostModal } from '../components/CreatePostModal';
 export const Explore = () => {
   const explorePosts = useSelector(state => state.post.explorePosts);
-  
+
   const allPosts = useSelector(state => state.post.allPosts);
   const allPostsStatus = useSelector(state => state.post.allPostsStatus);
   const postModalState = useSelector(state => state.postModal);
@@ -85,41 +84,7 @@ export const Explore = () => {
             >
               Trending
             </Button>
-            <Button
-              colorScheme="teal"
-              variant={currentCategory == 'Facts' ? 'solid' : 'outline'}
-              onClick={() => setCurrentCategory('Facts')}
-            >
-              Facts
-            </Button>
 
-            <Button
-              leftIcon={<RiNewspaperLine size="1.25rem" />}
-              colorScheme="teal"
-              variant={currentCategory == 'News' ? 'solid' : 'outline'}
-              onClick={() => setCurrentCategory('News')}
-            >
-              News
-            </Button>
-          </HStack>
-          <HStack marginBottom="30" justifyContent="center">
-            <Button
-              leftIcon={<CgSmartphoneChip size="1.25rem" />}
-              colorScheme="teal"
-              variant={currentCategory == 'Technology' ? 'solid' : 'outline'}
-              onClick={() => setCurrentCategory('Technology')}
-            >
-              Technology
-            </Button>
-
-            <Button
-              colorScheme="teal"
-              leftIcon={<RiPlantLine size="1.25rem" />}
-              variant={currentCategory == 'Hydroponic' ? 'solid' : 'outline'}
-              onClick={() => setCurrentCategory('Hydroponic')}
-            >
-              Hydroponic
-            </Button>
           </HStack>
 
           {allPostsStatus === 'loading' ? (
