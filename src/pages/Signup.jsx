@@ -7,7 +7,7 @@ import {
   Input,
   Button,
   Checkbox,
-  Divider,
+ // Divider,
   Container,
   Text,
   Heading,
@@ -214,7 +214,7 @@ export const Signup = () => {
             Create New Account
           </Button>
         </Flex>
-        <Divider marginTop="10px" borderWidth="1px" borderColor="grey.50" />
+        {/* <Divider marginTop="10px" borderWidth="1px" borderColor="grey.50" /> */}
         <Flex direction="column">
           <Button
             colorScheme="whatsapp"
