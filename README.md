@@ -67,6 +67,7 @@ Checkout the live deployment here: [AgroLife] ()
 </a>
 </div>
 ## Connect with me:
+Shaspac
 
 <p align="left">
 <a href = "mailto: kedar.kulkarni12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
