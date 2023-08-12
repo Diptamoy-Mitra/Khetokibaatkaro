@@ -40,7 +40,7 @@ export const Footer = () => {
            
           </ButtonGroup>
           <Text fontSize="sm" color="subtle">
-            &copy; {2022} AgroLife, Inc. All rights reserved.
+            &copy; {2023} Khetokibaatkaro, Inc. All rights reserved.
           </Text>
         </Stack>
       </Stack>
