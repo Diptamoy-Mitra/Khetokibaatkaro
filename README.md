@@ -4,7 +4,7 @@
 # 🌱 Khetokibaatkaro 🌎
 
 
-### A platfrom for Framing the Farmer Community Online
+### A platform for Framing the Farmer Community Online
 
  </div>
 
