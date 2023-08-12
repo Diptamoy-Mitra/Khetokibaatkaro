@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dvuh4fz9d/image/upload/v1658239218/planet-earth_1_x4ukjv.png" height="180" width="200" alt="logo"/>
 
-# 🌱 AgroLife 🌎
+# 🌱 Khetokibaatkaro 🌎
 
 ### A Social Media App for Farming Community.
 
