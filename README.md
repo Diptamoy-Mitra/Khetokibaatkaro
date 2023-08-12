@@ -59,6 +59,7 @@ Checkout the live deployment here: [AgroLife](https://agrolife.netlify.app/)
 - You can also give your valuable suggestions/ feedback to improve this project via Email (Mail-id in below section).
 
 ## Connect with me:
+Shaspa
 
 <p align="left">
 <a href = "mailto: kedar.kulkarni12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
