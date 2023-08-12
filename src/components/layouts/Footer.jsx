@@ -33,7 +33,7 @@ export const Footer = () => {
             /> */}
             <IconButton
               as="a"
-              href="https://github.com/ "
+              href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro"
               aria-label="GitHub"
               icon={<FaGithub fontSize="1.25rem" />}
             />
