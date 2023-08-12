@@ -9,14 +9,14 @@
 
 ---
 
-## About AgroLife
+## About Khetokibaatkaro
 
 - AgroLife is a Social Media platform where one can easily share their life events & learnings related to Agriculture.
 - People can connect by following each other people and get knowledge and learnings from their friends.
 
 ## Live Deployment
 
-Checkout the live deployment here: [AgroLife] ()
+Checkout the live deployment here: [Khetokibaatkaro] ()
 ---
 
 ## Features
