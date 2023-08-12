@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://www.canva.com/design/DAFrUPtzCFo/TsLznMX3hkQxDcsYiO-WKA/edit?utm_content=DAFrUPtzCFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+ 
 
 # 🌱 Khetokibaatkaro 🌎
 
