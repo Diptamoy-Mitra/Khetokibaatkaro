@@ -1,6 +1,6 @@
 <div align="center">
- <a href="https://imgbox.com/TNFjtF0s" target="_blank"><img src="https://thumbs2.imgbox.com/5a/af/TNFjtF0s_t.png" alt="image host"/></a>
-
+ <a href="https://imgbox.com/F88jY6rc" target="_blank"><img src="https://thumbs2.imgbox.com/21/ff/F88jY6rc_t.png" alt="image host"/></a>
+ 
 # 🌱 Khetokibaatkaro 🌎
 
 
