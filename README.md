@@ -16,8 +16,7 @@
 
 ## Live Deployment
 
-Checkout the live deployment here: [AgroLife](https://agrolife.netlify.app/)
-
+Checkout the live deployment here: [AgroLife] ()
 ---
 
 ## Features
@@ -57,12 +56,19 @@ Checkout the live deployment here: [AgroLife](https://agrolife.netlify.app/)
 
 - If you face any issues while using the app, then you can surely raise issue on this repo.
 - You can also give your valuable suggestions/ feedback to improve this project via Email (Mail-id in below section).
-
+# Contributors
+<div>
+<h1 align="center">
+ <b>Made with ❤️ by team 404 Not Found
+<h1>
+<a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Diptamoy-Mitra/Khetokibaatkaro" />
+  
+</a>
+</div>
 ## Connect with me:
 
 <p align="left">
 <a href = "mailto: kedar.kulkarni12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/kedark152/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-kedark152-link" /></a>
-<a href="https://kedark152.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-kedark152-link" /></a>
-<a href="https://twitter.com/Kulkarni12Kedar" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+
 </p>
