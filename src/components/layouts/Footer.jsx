@@ -22,7 +22,7 @@ export const Footer = () => {
       >
         <Stack justify="space-between" direction="column" align="center">
           <Text fontSize="sm" fontWeight="bold" color="subtle">
-            {`Made by team Error 404`}
+            {`Made by team 404 Not Found`}
           </Text>
           <ButtonGroup variant="ghost">
             {/* <IconButton
@@ -33,14 +33,14 @@ export const Footer = () => {
             /> */}
             <IconButton
               as="a"
-              href="https://github.com/ "
+              href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro"
               aria-label="GitHub"
               icon={<FaGithub fontSize="1.25rem" />}
             />
            
           </ButtonGroup>
           <Text fontSize="sm" color="subtle">
-            &copy; {2022} AgroLife, Inc. All rights reserved.
+            &copy; {2023} Khetokibaatkaro, Inc. All rights reserved.
           </Text>
         </Stack>
       </Stack>
