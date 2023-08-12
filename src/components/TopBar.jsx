@@ -1,8 +1,8 @@
-import { HStack, Heading, useColorModeValue } from '@chakra-ui/react';
+import { HStack, Heading, useColorModeValue, Image } from '@chakra-ui/react';
 import { ColorModeSwitcher } from '../ColorModeSwitcher';
 import { NavLink } from 'react-router-dom';
 export const TopBar = () => {
-  const cardBgColor = useColorModeValue('teal', '#336600');
+  const cardBgColor = useColorModeValue('teal', '#060629');
   const cardTextColor = useColorModeValue('white', 'gray.200');
   return (
     <HStack
@@ -23,9 +23,14 @@ export const TopBar = () => {
         fontFamily="sans-serif"
         fontSize="30px"
 
-        marginX="2rem"
+        marginLeft="1rem"
       >
-        KHETOKIBAATKARO
+        <Image
+          boxSize={['30px', '30px', '50px']}
+          mx={['20vw', '2vw', '10vw']}
+          src="new2.png"
+        />
+
 
       </Heading>
       <ColorModeSwitcher position="absolute" right="2rem" />
