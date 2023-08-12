@@ -110,11 +110,11 @@ export const Login = () => {
               fontSize={['5xl', '4xl', '6xl']}
               fontWeight="bold"
               noOfLines="1"
-              fontFamily="Dancing Script, cursive"
+              fontFamily="sans-serif"
               textAlign="center"
               marginBottom="2"
             >
-              Khetokibaatkaro
+              KKBK
 
             </Text>
             <Spacer />
@@ -124,7 +124,7 @@ export const Login = () => {
               noOfLines="4"
               textAlign="center"
             >
-              Connect & share your agrolife stories with Farmers
+              Connect & share your stories with Farmers
             </Heading>
           </Box>
           <Spacer />
