@@ -60,8 +60,8 @@ Checkout the live deployment here: [AgroLife] ()
 <div>
 <h1 align="center">
  <b>Made with ❤️ by team 404 Not Found
-<h1>
-<a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/graphs/contributors">
+ <h1>
+  <a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Diptamoy-Mitra/Khetokibaatkaro" />
   
 </a>
