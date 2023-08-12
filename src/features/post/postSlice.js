@@ -16,7 +16,7 @@ export const getAllPosts = createAsyncThunk(
 
       return sortPostsBy(posts, sortPosts);
     } catch (error) {
-      return thunkAPI.rejectWithValue(error.message); bittu2000-24
+      return thunkAPI.rejectWithValue(error.message);
     }
   }
 );
