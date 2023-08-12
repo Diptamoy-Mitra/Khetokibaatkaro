@@ -178,12 +178,13 @@ export const MyProfile = () => {
                     {isFollowing ? `Following` : `Follow`}
                   </Button>
                 )}
+                
               </Flex>
               <Text marginLeft="5">
                 {following.length} Following • {followers.length} Followers
               </Text>
               <Text>
-                My Website:<Link marginLeft="1">{website}</Link>
+                My Website:<Link marginLeft="1">{website} </Link> 
               </Text>
               <Text>Bio: {bio}</Text>
             </VStack>
