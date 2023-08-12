@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/assets/99985624/3456ad1b-1093-4c31-9669-0b7b39636290>
+ <img src="https://www.canva.com/design/DAFrUPtzCFo/TsLznMX3hkQxDcsYiO-WKA/edit?utm_content=DAFrUPtzCFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton />
 
 # 🌱 Khetokibaatkaro 🌎
 
