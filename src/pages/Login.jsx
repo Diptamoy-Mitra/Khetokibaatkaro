@@ -107,10 +107,10 @@ export const Login = () => {
               src="https://res.cloudinary.com/dvuh4fz9d/image/upload/v1658239218/planet-earth_1_x4ukjv.png"
             />
             <Text
-              fontSize={['2x1', '2xl', '2x.5']}
+              fontSize={['3x1', '3xl', '2x.5']}
 
               noOfLines="2"
-              fontFamily="monospace"
+              fontFamily="Dancing Script,cursive"
               textAlign="center"
               marginBottom="2"
               bgGradient='linear(to-l,#009933 0%, #ffff00 100%)'
