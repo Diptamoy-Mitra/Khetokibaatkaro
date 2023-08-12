@@ -114,7 +114,8 @@ export const Login = () => {
               textAlign="center"
               marginBottom="2"
             >
-              AgroLife
+              Khetokibaatkaro
+
             </Text>
             <Spacer />
             <Heading
@@ -123,7 +124,7 @@ export const Login = () => {
               noOfLines="4"
               textAlign="center"
             >
-              Connect & share your agrolife stories with friends
+              Connect & share your agrolife stories with Farmers
             </Heading>
           </Box>
           <Spacer />
