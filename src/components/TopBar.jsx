@@ -26,9 +26,9 @@ export const TopBar = () => {
         marginLeft="1rem"
       >
 
-    <Image
+        <Image
           boxSize={['30px', '30px', '50px']}
-          mx={['20vw', '2vw', '10vw']}
+          mx={['20vw', '2vw', '0vw']}
           src="new2.png"
         />
 
