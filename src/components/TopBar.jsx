@@ -25,7 +25,7 @@ export const TopBar = () => {
 
         marginX="2rem"
       >
-        KHETOKIBAATKARO
+        
 
       </Heading>
       <ColorModeSwitcher position="absolute" right="2rem" />
