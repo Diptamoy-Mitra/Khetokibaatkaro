@@ -16,7 +16,7 @@ export const getAllPosts = createAsyncThunk(
 
       return sortPostsBy(posts, sortPosts);
     } catch (error) {
-      return thunkAPI.rejectWithValue(error.message); 
+      return thunkAPI.rejectWithValue(error.message);
     }
   }
 );
@@ -217,7 +217,7 @@ const postSlice = createSlice({
       state.singleUserPostsStatus = STATUSES.ERROR;
     },
     [getHomePosts.pending]: state => {
-      state.homePostsStatus = STATUSES.LOADING; 
+      state.homePostsStatus = STATUSES.LOADING;
     },
     [getHomePosts.fulfilled]: (state, action) => {
       state.homePostsStatus = STATUSES.SUCCESS;

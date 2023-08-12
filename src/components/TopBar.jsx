@@ -20,10 +20,12 @@ export const TopBar = () => {
         size="xl"
         noOfLines="2"
         lineHeight={1.6}
-        fontFamily="Dancing Script, cursive"
+        fontFamily="sans-serif"
+
         marginX="2rem"
       >
-        AgroLife
+        KKBK
+
       </Heading>
       <ColorModeSwitcher position="absolute" right="2rem" />
     </HStack>
