@@ -41,9 +41,6 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 
 
 
-
-# Customer Dashboard
-
 ## Features
 
 - Home Feed with Sort Posts by Trending, Newest & Oldest Post.
