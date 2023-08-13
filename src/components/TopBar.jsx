@@ -2,8 +2,8 @@ import { HStack, Heading, useColorModeValue, Image } from '@chakra-ui/react';
 import { ColorModeSwitcher } from '../ColorModeSwitcher';
 import { NavLink } from 'react-router-dom';
 export const TopBar = () => {
-  const cardBgColor = useColorModeValue('#00171F', '#00171F');
-  const cardTextColor = useColorModeValue('white', 'gray.200');
+  // const cardBgColor = useColorModeValue('#00171F', '#00171F');
+  // const cardTextColor = useColorModeValue('white', 'gray.200');
   return (
     <HStack
       width="100%"
