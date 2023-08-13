@@ -10,12 +10,12 @@
 
 ---
 
-## About Khetokibaatkaro
+## Tagline
 
-- Khetokibaatkaro is a Social Media platform where one can easily share their life events & learnings related to Agriculture.
-- People can connect by following each other people and get knowledge and learnings from their friends.
+-Cultivate Connections: The Social Soil for Farmers
 
 ## Live Deployment
+-https://khetokibaatkaro.vercel.app/
 
 Checkout the live deployment here: [Khetokibaatkaro] ()
 ---
