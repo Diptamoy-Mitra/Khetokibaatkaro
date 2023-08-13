@@ -20,6 +20,15 @@
 Checkout the live deployment here: [Khetokibaatkaro] ()
 ---
 
+# This is Made For StatusCode 0
+![statuscode0](https://github.com/RahulGhosh201/Khetokibaatkaro/assets/99985624/99cab659-2496-431e-82a1-11c3dfea952e)
+ 
+# User Login And Registration
+![l r](https://github.com/RahulGhosh201/Khetokibaatkaro/assets/99985624/2f5c8cc4-aa04-45de-aeee-91cb80bb079a)
+
+
+# Customer Dashboard
+
 ## Features
 
 - Home Feed with Sort Posts by Trending, Newest & Oldest Post.
@@ -41,13 +50,14 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 
 ## Tech Stack and Tools
 
-- Chakra UI
-- React JS
-- Redux Tool Kit
-- React Router v6
+- <a href="https://imgbox.com/xOCdKIfM" target="_blank"><img src="https://thumbs2.imgbox.com/42/06/xOCdKIfM_t.jpg" alt="image host" height="20" width="20"/></a> 
+ Chakra UI
+- <a href="https://imgbox.com/zT7ESRKN" target="_blank"><img src="https://thumbs2.imgbox.com/7f/f3/zT7ESRKN_t.png" alt="image host" height="20" width="20"/></a> React JS
+- <a href="https://imgbox.com/S6rlslmH" target="_blank"><img src="https://thumbs2.imgbox.com/1f/6a/S6rlslmH_t.png" alt="image host" height="20" width="20"/></a> Redux Tool Kit
+- <a href="https://imgbox.com/LVagGKTx" target="_blank"><img src="https://thumbs2.imgbox.com/13/0f/LVagGKTx_t.jpg" alt="image host" height="20" width="20"/></a> React Router v6
 - Backend setup using Firebase Firestore Database.
-- Netlify for Deployment
-- Cloudinary for Hosting of Images
+- Vercel for Deployment
+- Imgbox for Hosting of Images
 - [Flaticons](https://www.flaticon.com/) for colorful icons.
 
 
@@ -57,16 +67,52 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 
 - If you face any issues while using the app, then you can surely raise issue on this repo.
 - You can also give your valuable suggestions/ feedback to improve this project via Email (Mail-id in below section).
-# Contributors
+## Contributors
+<!--<div>
+<h1 align="center">
+ <b>Made with ❤️ by team 404 Not Found
+<!-- [<img src="contributor1.jpg" width="50" height="50" alt="Contributor 1">](https://github.com/Contributor1)
+  -->
+
+<!--   <img src="https://thumbs2.imgbox.com/e3/72/yuv9J5TJ_t.png" alt="image host"/> -->
+
+  
+
+
+</div>-->
+<br>
 <div>
 <h1 align="center">
  <b>Made with ❤️ by team 404 Not Found
-
+<h1>
+<!-- <a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/contributors">
+  <img src="https://contrib.rocks/image?repo=https://imgbox.com/aRpd69DG&&max=817" />
+</a> -->
+ <a href="https://imgbox.com/aRpd69DG" target="_blank"><img src="https://thumbs2.imgbox.com/5a/10/aRpd69DG_t.png" alt="image host" height="100" width="300"/></a>
 </div>
-## Connect with me:
-Shaspac
 
-<p align="left">
+
+## Connect with us:
+<!-- <p align="left">
 <a href = "mailto: kedar.kulkarni12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
+</p> -->
+<p>
+<a href="https://github.com/Diptamoy-Mitra">
+  <img src="https://img.shields.io/github/followers/Diptamoy-Mitra?label=Follow%20%40Diptamoy-Mitra&style=social" alt="Follow @Diptamoy-Mitra on GitHub">
+</a>
+<a href="https://github.com/shaspachayan">
+  <img src="https://img.shields.io/github/followers/shaspachayan?label=Follow%20%40shaspachayan&style=social" alt="Follow @shaspachayan on GitHub">
+</a>
+ <a href="https://github.com/pramit-mondal76">
+  <img src="https://img.shields.io/github/followers/pramit-mondal76?label=Follow%20%40pramit-mondal76&style=social" alt="Follow @pramit-mondal76 on GitHub">
+</a>
+<a href="https://github.com/RahulGhosh201">
+  <img src="https://img.shields.io/github/followers/RahulGhosh201?label=Follow%20%40RahulGhosh201e&style=social" alt="Follow @RahulGhosh201 on GitHub">
+</a>
+
+<a href="https://github.com/Samrat-Rakshit">
+  <img src="https://img.shields.io/github/followers/Samrat-Rakshit?label=Follow%20%40Samrat-Rakshit&style=social" alt="Follow @Samrat-Rakshit on GitHub">
+</a>
 </p>
+
