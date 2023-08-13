@@ -58,11 +58,30 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 - If you face any issues while using the app, then you can surely raise issue on this repo.
 - You can also give your valuable suggestions/ feedback to improve this project via Email (Mail-id in below section).
 ## Contributors
+<!--<div>
+<h1 align="center">
+ <b>Made with ❤️ by team 404 Not Found
+<!-- [<img src="contributor1.jpg" width="50" height="50" alt="Contributor 1">](https://github.com/Contributor1)
+  -->
+
+<!--   <img src="https://thumbs2.imgbox.com/e3/72/yuv9J5TJ_t.png" alt="image host"/> -->
+
+  
+
+
+</div>-->
+<br>
 <div>
 <h1 align="center">
  <b>Made with ❤️ by team 404 Not Found
-
+<h1>
+<!-- <a href="https://github.com/Diptamoy-Mitra/Khetokibaatkaro/contributors">
+  <img src="https://contrib.rocks/image?repo=https://imgbox.com/aRpd69DG&&max=817" />
+</a> -->
+ <a href="https://imgbox.com/aRpd69DG" target="_blank"><img src="https://thumbs2.imgbox.com/5a/10/aRpd69DG_t.png" alt="image host" height="100" width="300"/></a>
 </div>
+
+
 ## Connect with us:
 <!-- <p align="left">
 <a href = "mailto: kedar.kulkarni12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
