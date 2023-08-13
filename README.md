@@ -22,13 +22,9 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 
 # This is Made For StatusCode 0
 ![statuscode0](https://github.com/RahulGhosh201/Khetokibaatkaro/assets/99985624/99cab659-2496-431e-82a1-11c3dfea952e)
-
-
-
-# Overview :- 
-
-
+ 
 # User Login And Registration
+![l r](https://github.com/RahulGhosh201/Khetokibaatkaro/assets/99985624/2f5c8cc4-aa04-45de-aeee-91cb80bb079a)
 
 
 # Customer Dashboard
@@ -54,10 +50,11 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 
 ## Tech Stack and Tools
 
-- Chakra UI
-- React JS
-- Redux Tool Kit
-- React Router v6
+- <a href="https://imgbox.com/xOCdKIfM" target="_blank"><img src="https://thumbs2.imgbox.com/42/06/xOCdKIfM_t.jpg" alt="image host" height="20" width="20"/></a> 
+ Chakra UI
+- <a href="https://imgbox.com/zT7ESRKN" target="_blank"><img src="https://thumbs2.imgbox.com/7f/f3/zT7ESRKN_t.png" alt="image host" height="20" width="20"/></a> React JS
+- <a href="https://imgbox.com/S6rlslmH" target="_blank"><img src="https://thumbs2.imgbox.com/1f/6a/S6rlslmH_t.png" alt="image host" height="20" width="20"/></a> Redux Tool Kit
+- <a href="https://imgbox.com/LVagGKTx" target="_blank"><img src="https://thumbs2.imgbox.com/13/0f/LVagGKTx_t.jpg" alt="image host" height="20" width="20"/></a> React Router v6
 - Backend setup using Firebase Firestore Database.
 - Vercel for Deployment
 - Imgbox for Hosting of Images
