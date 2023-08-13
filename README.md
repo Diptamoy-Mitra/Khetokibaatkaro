@@ -26,16 +26,16 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 # User Login And Registration
 ![l r](https://github.com/RahulGhosh201/Khetokibaatkaro/assets/99985624/2f5c8cc4-aa04-45de-aeee-91cb80bb079a)
 
-#Home
+##  Home
 ![1](https://github.com/Diptamoy-Mitra/Khetokibaatkaro/assets/95114633/a14f463f-745d-4ada-9e63-8e6f7c3d6fd7)
 
-#Bookmarks
+## Bookmarks
 ![2](https://github.com/Diptamoy-Mitra/Khetokibaatkaro/assets/95114633/af0a6202-a475-4110-a6be-1dd542e6a4f9)
 
-#Profile
+## Profile
 ![3](https://github.com/Diptamoy-Mitra/Khetokibaatkaro/assets/95114633/f25ddc56-a1e9-47c1-87ef-8098872c7821)
 
-#Create new Post
+## Create new Post
 ![4](https://github.com/Diptamoy-Mitra/Khetokibaatkaro/assets/95114633/2bbe3d75-e2c7-43d6-9f40-239f878ba24d)
 
 
