@@ -67,10 +67,10 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 - <a href="https://imgbox.com/zT7ESRKN" target="_blank"><img src="https://thumbs2.imgbox.com/7f/f3/zT7ESRKN_t.png" alt="image host" height="20" width="20"/></a> React JS
 - <a href="https://imgbox.com/S6rlslmH" target="_blank"><img src="https://thumbs2.imgbox.com/1f/6a/S6rlslmH_t.png" alt="image host" height="20" width="20"/></a> Redux Tool Kit
 - <a href="https://imgbox.com/LVagGKTx" target="_blank"><img src="https://thumbs2.imgbox.com/13/0f/LVagGKTx_t.jpg" alt="image host" height="20" width="20"/></a> React Router v6
-- Backend setup using Firebase Firestore Database.
-- Vercel for Deployment
-- Imgbox for Hosting of Images
-- [Flaticons](https://www.flaticon.com/) for colorful icons.
+- <a href="https://imgbox.com/eIqhtacd" target="_blank"><img src="https://thumbs2.imgbox.com/8e/b4/eIqhtacd_t.png" alt="image host" height="20" width="20"/></a> Backend setup using Firebase Firestore Database.
+- <a href="https://imgbox.com/eIqhtacd" target="_blank"><img src="https://thumbs2.imgbox.com/8e/b4/eIqhtacd_t.png" alt="image host" height="20" width="20"/></a> Vercel for Deployment
+- <a href="https://imgbox.com/30MMXk0D" target="_blank"><img src="https://thumbs2.imgbox.com/b3/67/30MMXk0D_t.png" alt="image host" height="20" width="20"/></a> Imgbox for Hosting of Images
+
 
 
 ---
