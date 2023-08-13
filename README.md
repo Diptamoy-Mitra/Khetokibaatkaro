@@ -20,6 +20,19 @@
 Checkout the live deployment here: [Khetokibaatkaro] ()
 ---
 
+# This is Made For StatusCode 0
+![statuscode0](https://github.com/RahulGhosh201/Khetokibaatkaro/assets/99985624/99cab659-2496-431e-82a1-11c3dfea952e)
+
+
+
+# Overview :- 
+
+
+# User Login And Registration
+
+
+# Customer Dashboard
+
 ## Features
 
 - Home Feed with Sort Posts by Trending, Newest & Oldest Post.
