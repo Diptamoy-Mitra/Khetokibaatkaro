@@ -46,8 +46,8 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 - Redux Tool Kit
 - React Router v6
 - Backend setup using Firebase Firestore Database.
-- Netlify for Deployment
-- Cloudinary for Hosting of Images
+- Vercel for Deployment
+- Imgbox for Hosting of Images
 - [Flaticons](https://www.flaticon.com/) for colorful icons.
 
 
@@ -57,16 +57,33 @@ Checkout the live deployment here: [Khetokibaatkaro] ()
 
 - If you face any issues while using the app, then you can surely raise issue on this repo.
 - You can also give your valuable suggestions/ feedback to improve this project via Email (Mail-id in below section).
-# Contributors
+## Contributors
 <div>
 <h1 align="center">
  <b>Made with ❤️ by team 404 Not Found
 
 </div>
-## Connect with me:
-Shaspac
-
-<p align="left">
+## Connect with us:
+<!-- <p align="left">
 <a href = "mailto: kedar.kulkarni12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
+</p> -->
+<p>
+<a href="https://github.com/Diptamoy-Mitra">
+  <img src="https://img.shields.io/github/followers/Diptamoy-Mitra?label=Follow%20%40Diptamoy-Mitra&style=social" alt="Follow @Diptamoy-Mitra on GitHub">
+</a>
+<a href="https://github.com/shaspachayan">
+  <img src="https://img.shields.io/github/followers/shaspachayan?label=Follow%20%40shaspachayan&style=social" alt="Follow @shaspachayan on GitHub">
+</a>
+ <a href="https://github.com/pramit-mondal76">
+  <img src="https://img.shields.io/github/followers/pramit-mondal76?label=Follow%20%40pramit-mondal76&style=social" alt="Follow @pramit-mondal76 on GitHub">
+</a>
+<a href="https://github.com/RahulGhosh201">
+  <img src="https://img.shields.io/github/followers/RahulGhosh201?label=Follow%20%40RahulGhosh201e&style=social" alt="Follow @RahulGhosh201 on GitHub">
+</a>
+
+<a href="https://github.com/Samrat-Rakshit">
+  <img src="https://img.shields.io/github/followers/Samrat-Rakshit?label=Follow%20%40Samrat-Rakshit&style=social" alt="Follow @Samrat-Rakshit on GitHub">
+</a>
 </p>
+
