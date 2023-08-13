@@ -28,8 +28,8 @@ export const TopBar = () => {
 
         <Image
           boxSize={['30px', '30px', '50px']}
-          mx={['20vw', '2vw','10vw']}
-          src="new2.png"
+          mx={['20vw', '2vw','4vw']}
+          src="https://thumbs2.imgbox.com/0c/0f/WtSCfXX3_t.png"
         />
 
 
